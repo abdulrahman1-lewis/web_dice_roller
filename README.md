@@ -57,11 +57,11 @@ web-dice-roller/
 4. Upload `index.html`, `style.css`, and `script.js` to the `$web` container.
 5. Open the static website's primary endpoint (HTTPS) in a browser.
 
-Azure Static Website URL: [ADD YOUR AZURE STATIC WEBSITE URL HERE]
+Azure Static Website URL: []
 
-Azure Node.js server URL: [ADD YOUR AZURE APP SERVICE URL HERE]
+Azure Node.js server URL: []
 
 ## Credits
 
-- Code generated with Claude (Anthropic), then reviewed and tested by the author.
+
 - Course examples and tutorials by Eric Pogue (https://github.com/EricJPogue/cpsc-example-code).
