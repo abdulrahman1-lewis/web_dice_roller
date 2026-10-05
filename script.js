@@ -7,7 +7,7 @@
 // ---------- Configuration ----------
 // Change this to the URL of your Azure Node.js server after deploying it (no trailing slash).
 // Use http://localhost:3000 when running the server on your own computer.
-const API_BASE_URL = 'http://localhost:3000'
+const API_BASE_URL = 'https://abdul-dice-roller-api-hwd6gbdsbvcjfuhe.westus3-01.azurewebsites.net'
 
 // ---------- Element references ----------
 const dieFields = [
